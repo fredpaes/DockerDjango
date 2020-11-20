@@ -5,7 +5,7 @@
 - [PostgreSQL]
 
 ## Commands
-- Up / down docker: 
+- Up / down docker:
   ```docker
     docker-compose up
   ```

@@ -1,1 +1,5 @@
+# MacFiles
 .DS_Store
+
+# pycache
+example/*/__pycache__/*
